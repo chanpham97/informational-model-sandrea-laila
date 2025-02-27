@@ -1,0 +1,86 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+/* CENTERING AND MAKE SURE PPW IS IN A CORRECT AREA  */
+.ppw{
+  height:auto;
+  width: 7vw; 
+  margin-right: 2vw;
+}
+/* CENTERING AND MAKE SURE CAROUSEL IS IN A CORRECT AREA  */
+.carousel{
+  height: auto;
+  width: 40vw;
+}
+/*  Making sure text and other things on navbar are even and where they need to be placed  */
+.navbar{
+  margin-bottom:2vw;
+  font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+/* making sure ll image is where it needs to be  */
+.ll{
+  margin-top:5vw;
+  margin-bottom:5vw;
+}
+/* changing background color*/
+.w{
+  background-color:#e6c4a7;
+}
+/* making sure  */
+p, h5, h2{
+  margin-bottom:2vw;
+  font-family: "Merienda", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+/* sizing image */
+ .alert-primary {
+   background-color:#e5d7cc !important;
+  color:#613c1a !important;
+   text-align: center;
+ }
+/* coloring background  */
+#color{
+  background-color:#4c3929 !important;
+  color: white;
+}
+/* sizing card */
+.Welcome card{
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  
+}
+/* making sure text is in the center  */
+.h1{
+  text-align:center;
+}
+/* sizing vv */
+.vv{
+  margin-top:2vw;
+  margin-bottom:5vw;
+  height: auto;
+  width:50vw;
+}
+/* placing button in the correct place  */
+.btn-outline-dark{
+  margin-top: 2vw;
+  margin-bottom:2vw;
+  margin-left: 2vw;
+}
+/* sizing image */
+#img{
+  margin-top: 2vw;
+  margin-bottom:2vw;
+  margin-left: 2vw;
+  height: auto;
+  width:50vw;
+}
+
+/* sizing image */
+#bmm{
+  margin-top: 3vw;
+}
